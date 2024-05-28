@@ -1,1 +1,1 @@
-# cd
+web: python SATISH.py
